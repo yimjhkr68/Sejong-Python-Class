@@ -1,0 +1,54 @@
+6주차(4/11) : 함수와 모듈
+
+1. 퀴즈
+
+2. 중간고사 안내
+
+3. 실습I : 파이썬 2강 추가, 6강
+
+4. 실습II : 비트스트림 들여다보기
+
+
+5. 실습IV : 
+
+인공지능과 로봇의 기술 변화와 그로 인한 산업계의 변화를 보여주는 다음 내용 중 하나를 선택하여 관련 영상과 자료를 찾아보세요.
+A4 1쪽 정도로 팀원들의 토론/감상 내용을 정리하여 4월 25일 오후 5시까지 깃허브에 올리세요.
+
+(1) 로봇의 진화
+
+(예) 보스턴 다이나믹스
+https://www.youtube.com/watch?v=-7xvqQeoA8c&list=PLrFT4EZ72lN7ah154eit5hp1QqK0fJo8F
+
+
+(2) 자율주행차
+
+(예) 테슬라 자율주행 오토파일럿 #자동차
+https://www.youtube.com/watch?v=Hd45uqJUvI0
+
+
+(3) 공장자동화
+
+(예) 아디다스 스피드 팩토리
+https://www.youtube.com/watch?v=2nBjnDf8SRM
+
+(4) 산업디자인
+
+(예) The future of making things
+https://www.youtube.com/watch?v=E2SxqUvtpIk
+
+
+(5) 무인 물류
+
+(예) Amazon kiva robots warehouse
+https://www.youtube.com/watch?v=z_R8feyCu-M
+
+
+(6) 로봇을 이용한 융합학습
+
+(예) Wonder Workshop, Home of Dash & Dot Robots
+https://www.youtube.com/watch?v=LA9py48X6_o
+
+(7) VR(HoloLens)을 이용한 의료교육
+
+(예) Transforming Medical Education with Microsoft HoloLens
+https://www.youtube.com/watch?v=h4M6BTYRlKQ
