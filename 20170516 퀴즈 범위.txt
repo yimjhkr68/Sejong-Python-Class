@@ -1,0 +1,53 @@
+5월 16일 수업시간 퀴즈는 10문제입니다.
+다음 범위에서 출제합니다.
+
+
+1. 자연어의 이해
+
+- NLP?
+- 자연어와 비자연어의 비교
+- triangle of reference 모델
+- (speech acts) 3가지 범주
+
+2. 언어학
+
+- 언어학의 기원
+
+
+3. 언어의 문법과 구조
+
+- 문장 => 절 => 구 => 단어 => 형태소 
+- parsing?
+
+- 문법 : 구문과 구조를 재현하는 방식에 따라 dependency grammar, constituency grammar
+
+- 구의 범주 5개 
+(1) 명사구 Noun phrase(NP) 
+(2) 동사구 Verb phrase(VP) 
+(3) 형용사구 Adjective phrase(ADJP) 
+(4) 부사구 Adverb phrase(ADVP) 
+(5) 전치사구 Prepositional phrase(PP)
+
+
+4. 언어의 의미
+
+semantic network
+1차 논리
+
+5. 텍스트 말뭉치
+
+코퍼스의 정의와 용도
+
+주석의 종류
+
+영어 말뭉치 종류
+
+6. 자연어처리
+
+응용분야
+
+7. 텍스트 분석
+
+분석기법
+
+응용분야
