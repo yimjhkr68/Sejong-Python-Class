@@ -14,3 +14,25 @@
 사업계획서 샘플과 같이 새로운 서비스나 제품에 대한 아이디어를 정리하여 5월 30일 수업시간 전까지 깃허브에 올려주세요.
 다음 주 수업에서 팀당 5분씩 발표, 10분씩 질의응답을 할 예정입니다.
 6월 13일 수업에서는 벤처 멘토링 전문가를 모셔 놓고 팀당 발표 7분, 평가 5분씩의 시간을 갖도록 하겠습니다. 
+
+*** 참고
+
+(1) ITP Thesis week
+<hysterical wearable 9:26>
+https://player.vimeo.com/video/217185389?   
+
+00:55 microaggressions are the everyday slight insults, wherer intentional or unintentional, which communicate negative messages to target persons based solely upon their group membership.
+
+1:35 How can technology prompt conversational about microaggressions?
+
+2:40 a waerable device for the aggerssee and aggressor that detects verbal microaggressions towards the female gender during daily conversations and reacts to it
+
+2:55 What is the tone of the conversation?
+
+5:30 웨어러블 제품 구조
+5:34-47 파이썬 프로그램 실행 장면
+
+7:10 - 7:55  데모
+8:00  배운 점
+
+(2) 김윤이 뉴로어소시에이츠 대표 동영상강좌
